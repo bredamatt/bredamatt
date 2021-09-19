@@ -16,6 +16,6 @@ Briefly stated:
 
 ### Personality
 
-I believe anything can be achieved as long as one has decided that it will be happen - obviously within readon. Hence, a suitable stoic quote:
+I believe anything can be achieved as long as one has decided that it will be happen, but obviously within reason. Ergo the suitable stoic quote:
 
 > You have power over your mind - not outside events. Realize this, and you will find strength. - Marcus Aurelius
