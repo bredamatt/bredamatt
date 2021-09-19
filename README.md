@@ -1,10 +1,10 @@
 ## Welcome!
 
-> You have power over your mind - not outside events. Realize this, and you will find strength. - Marcus Aurelius
+Hi there! Thank you for checking out my profile. 
 
-### For the curious:
+It should be noted that most of my GitHub work happens on employer specific accounts, so do not view my activity here as representative of my overall code contribution.
 
-I am a Norwegian-Italian 30 year old man, based in London, United Kingdom. 
+### Information about me:
 
 Briefly stated:
 - :dark_sunglasses: I’m currently working for Queueco, an algorithmic and quantitative propietary trading fund in London
@@ -13,3 +13,9 @@ Briefly stated:
 - 📫 How to reach me: Please contact me on LinkedIn
 - ⚡ Fun fact: I am 206 cm, or 6'9'' tall.
 - :musical_keyboard: Hobby: Music production (mostly melodic techno)
+
+### Personality
+
+I believe anything can be achieved as long as one has decided that it will be happen - obviously within readon. Hence, a suitable stoic quote:
+
+> You have power over your mind - not outside events. Realize this, and you will find strength. - Marcus Aurelius
