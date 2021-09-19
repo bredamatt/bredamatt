@@ -1,9 +1,8 @@
-### Welcome!
+## Welcome!
 
-> You have power over your mind - not outside events. Realize this, and you will find strength.
-- Marcus Aurelius
+> You have power over your mind - not outside events. Realize this, and you will find strength. - Marcus Aurelius
 
-#### For the curious:
+### For the curious:
 
 I am a Norwegian-Italian 30 year old man, based in London, United Kingdom. 
 
