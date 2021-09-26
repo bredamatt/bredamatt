@@ -2,7 +2,7 @@
 
 Hi there! Thank you for checking out my profile. 
 
-It should be noted that most of my GitHub work happens on employer specific accounts, so do not view my activity here as representative of my overall code contribution.
+It should be noted that most of my GitHub work happens on employer specific accounts, so do not view my activity here as representative of my overall code contribution. In fact, most of my code contribution will be on weekends, as this is when I allocate time for hobby-research.
 
 ### About me
 
