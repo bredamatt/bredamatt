@@ -19,7 +19,7 @@ What the future holds I do not know, but some of my experience involves working 
 - IBM
 - R3
 - Norwegian Sovereign Wealth Fund, and
-- Queuco Limited, an algorithmic crypto-trading fund.
+- Queuco Limited, a principal algorithmic trading fund
 
 ### Fine
 
