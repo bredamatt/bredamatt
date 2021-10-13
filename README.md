@@ -12,7 +12,7 @@ SPAs are mathematical formalisms (sometimes with associated programming language
 - https://github.com/Bio-PEPA 
 - https://github.com/ageorgou/ProPPA
 
-Since I realised the power of HPC to simulate complex phenomena, I have been fascinated by a broad range of research topics related to complexity science. I like to call myself generalist in terms of scientific interests. 
+Since I realised the power of HPC to simulate complex phenomena, I have been fascinated by a broad range of research topics related to complexity and computational science. I like to call myself generalist in terms of scientific interests. 
 
 Briefly stated, I love solving complex problems.
 
