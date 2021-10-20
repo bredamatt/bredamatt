@@ -24,5 +24,5 @@ In addition to my focus on computational science during my time in university, I
 
 On another note:
 
-> "You have power over your mind - not outside events. Realize this, and you will find strength"
+> "Ne ut qui millia annorum victurus sit; fatum impendet; dum vivis, dum licet, fac bonus fias"
 > - Marcus Aurelius
