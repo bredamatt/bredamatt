@@ -2,7 +2,7 @@
 
 Hi there! Thank you for checking out my profile. 
 
-My name is Mattia, and I currently work for Queueco Limited, a quantitative and algorithmic trading fund in London. At Queueco I primarily work on providing High Performance Computing environments in the cloud for the quantitative researchers, in addition to maintaining and gradually improving/migrating the pre-existing trading infrastructure to a more Cloud-Native setup.
+My name is Mattia, and I currently work for Queueco Limited, a quantitative and algorithmic trading fund in London. At Queueco I primarily work on providing High Performance Computing environments in the Cloud for quantitative researchers, in addition to maintaining and gradually improving/migrating the pre-existing trading infrastructure to a more Cloud-Native setup.
 
 ### About me
 
@@ -14,7 +14,7 @@ Stochastic Process Algebras are mathematical formalisms (sometimes with associat
 
 ### Work experience
 
-In addition to my focus on computational science during my time in university, I have built up a plethora of practical experience as a DevOps engineer working across Cloud Providers like AWS, Azure, GCP, IBM Cloud and VMWare ESXi on-premises. Additionally, I have mostly worked in highly security critical environments. Examples are:
+In addition to my focus on computational science during my time in university, I have built up a plethora of practical experience as a DevOps engineer working across Cloud Providers like AWS, Azure, GCP, IBM Cloud and VMWare ESXi on-premises. Additionally, I have mostly worked in highly security critical environments with a focus on deploying various Kubernetes distributions like OpenShift, ICP, AKS, EKS and GKE. Some environments I have worked in are:
 - military research institutes, 
 - centralized public-key-infrastructures, 
 - sovereign wealth funds,
