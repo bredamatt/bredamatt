@@ -2,7 +2,7 @@
 
 Hi there! Thank you for checking out my profile. 
 
-My name is Mattia, and I currently work for Queueco Limited, a quantitative and algorithmic trading fund in London. At Queueco I primarily work on providing High Performance Computing environments in the cloud for the quantitative researchers, in addition to maintaining and gradually improving the pre-existing trading infrastructure.
+My name is Mattia, and I currently work for Queueco Limited, a quantitative and algorithmic trading fund in London. At Queueco I primarily work on providing High Performance Computing environments in the cloud for the quantitative researchers, in addition to maintaining and gradually improving/migrating the pre-existing trading infrastructure to a more Cloud-Native setup.
 
 ### About me
 
