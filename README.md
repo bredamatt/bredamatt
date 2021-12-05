@@ -5,7 +5,6 @@ Hi there! Thank you for checking out my profile.
 ## Interests
 
 - Automating security engineering / purple teaming
-- Building highly available systems
 - Kubernetes
 - Linux
 - Cryptography (in particular MPC and Blockchains)
