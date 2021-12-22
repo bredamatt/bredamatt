@@ -9,7 +9,5 @@ Hi there! Thank you for checking out my profile.
 - Cybernetics and control theory more generally
 - Linux internals
 - Trusted Computing and Blockchain platforms
-- Privacy
-
-
-Fine
+- DeFi
+- DAOs
