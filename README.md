@@ -5,8 +5,7 @@ Hi there! Thank you for checking out my profile.
 ## Interests
 
 - Automating security engineering / purple teaming
-- Kubernetes
-- Cybernetics and control theory more generally
+- Kubernetes / Cybernetics / Control theory
 - Linux internals
 - Trusted Computing
 - Blockchain platforms
