@@ -8,6 +8,7 @@ Hi there! Thank you for checking out my profile.
 - Kubernetes
 - Cybernetics and control theory more generally
 - Linux internals
-- Trusted Computing and Blockchain platforms
-- DeFi
+- Trusted Computing
+- Blockchain platforms
+- Smart Contracts
 - DAOs
