@@ -1,13 +1,3 @@
-## Welcome!
-
-Hi there! Thank you for checking out my profile. 
-
-## Interests
-
-- Automating security engineering / purple teaming
-- Kubernetes / Cybernetics / Control theory
-- Linux internals
-- Trusted Computing
-- Blockchain platforms
-- Smart Contracts
-- DAOs
+<p align="center">
+  <a href="https://image.flaticon.com/" target="blank"><img src="https://image.flaticon.com/icons/png/512/119/119412.png" width="320" alt="Scarab Logo" /></a>
+</p>
