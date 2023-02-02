@@ -5,7 +5,7 @@
   <a> Polkadot / Substrate </a> |
   <a> DeFi </a> |
   <a> Quantitative Research  </a> |
-  <a> Rust </a> |
+  <a> Low Level Programming </a>
   <br><br>
  
 <div align="center">
