@@ -2,11 +2,10 @@
 
 <div align="center">
   <b>My interests:</b><br>
-  <a> 🟪 Polkadot / Substrate 🟩 </a> |
-  <a> 🌐 DeFi 📈 </a> |
-  <a> 🔬 Quantitative Research ⚛️ </a> |
-  <a> ♾️ DevOps ☸️ </a> |
-  <a> 🦀 Rust 🔧 </a> |
+  <a> Polkadot / Substrate </a> |
+  <a> DeFi </a> |
+  <a> Quantitative Research  </a> |
+  <a> Rust </a> |
   <br><br>
  
 <div align="center">
