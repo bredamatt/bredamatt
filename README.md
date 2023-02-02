@@ -8,12 +8,6 @@
   <a> ♾️ DevOps ☸️ </a> |
   <a> 🦀 Rust 🔧 </a> |
   <br><br>
-  
-<div align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bredamatt&count_private=true&hide=stars&show_icons=true&theme=dark#gh-dark-mode-only" alt="stats"/>
-  
- </div>
  
 <div align="center">
     
