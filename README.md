@@ -1,6 +1,15 @@
 <h1 align="center"> bredamatt </h1>
 
 <div align="center">
+  <b>My interests:</b><br>
+  <a> 🟪 Polkadot / Substrate 🟩 </a> |
+  <a> 🌐 DeFi 💹 </a> |
+  <a> 🔬 Quantitative Research 🐍 </a> |
+  <a> ♾️ DevOps ☸️ </a> |
+  <a> 🦀 Rust 🔧 </a> |
+  <br><br>
+  
+<div align="center">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bredamatt&count_private=true&hide=stars&show_icons=true&theme=dark#gh-dark-mode-only" alt="stats"/>
   
