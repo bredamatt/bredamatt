@@ -1,1 +1,3 @@
-![Logo Mattia 300x300 LinkedIn_Company Logo Size](https://user-images.githubusercontent.com/28816406/216422349-3f2cb864-f372-4360-8f6e-61e531e33da4.png)
+<div style="text-align: center;">
+  ![Logo Mattia 1080x1080](https://user-images.githubusercontent.com/28816406/216422511-9dc160f1-4804-4bd5-a391-6197ef0cb9e9.png)
+</div>
