@@ -1,5 +1,7 @@
 <div style="text-align: center;">
   
-  ![Logo Mattia 1080x1080](https://user-images.githubusercontent.com/28816406/216422511-9dc160f1-4804-4bd5-a391-6197ef0cb9e9.png "Logo")
+[![bredamatt GitHub stats](https://github-readme-stats.vercel.app/api?username=bredamatt)](https://github.com/bredamatt/github-readme-stats)
+![Logo-Mattia-300x225-Email-Signature](https://user-images.githubusercontent.com/28816406/216425246-e68c0b3b-1d00-40cb-b1d8-83999be1b9f4.png)
+
   
 </div>
