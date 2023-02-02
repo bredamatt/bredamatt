@@ -8,6 +8,6 @@
  
 <div align="center">
     
-  <img align="center" src="https://user-images.githubusercontent.com/28816406/216433323-fbe2dbad-12db-4690-9665-ab15e99995d9.png" alt="logo"/>
+  <img align="center" src="https://user-images.githubusercontent.com/28816406/216433323-fbe2dbad-12db-4690-9665-ab15e99995d9.png" alt="logo" width=100/>
   
 </div>
