@@ -12,8 +12,8 @@
     
   <img align="center" src="https://user-images.githubusercontent.com/28816406/216433323-fbe2dbad-12db-4690-9665-ab15e99995d9.png" alt="logo" width=100/>
   <img align="center" src="https://www.parity.io/static/6050b977b06c4e5a13d753e50a79182a/icon-parity-signer.png" alt="logo" width=100/>
-  <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrightinventions.pl%2Fblog%2Fwhy-would-you-use-substrate&psig=AOvVaw14ZM1FsXqmW6AcHMHQdPkP&ust=1676312446749000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDe99bMkP0CFQAAAAAdAAAAABAP" alt="logo" width=100/>
-  <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpng.vector69.com%2F2022%2F04%2Fpolkadot-logo-png.html&psig=AOvVaw3KfXrudnz8MU05ltM-QgU0&ust=1676312496300000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDglezMkP0CFQAAAAAdAAAAABAI" alt="logo" width=100/>
-  <img align="center" src="https://e7.pngegg.com/pngimages/856/814/png-clipart-rust-system-programming-language-computer-programming-rusted-miscellaneous-computer-programming.png" alt="logo" width=100/>
+  <img align="center" src="https://brightinventions.pl/images/why-would-you-use-substrate/2.png" alt="logo" width=100/>
+  <img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrP3pDCmw9_JtYCI3I4WIItxPHMW-Amz2qyyZXDGfGL__hhpQsyzqsf6FwNSaBmp_23Jc-dT2s-UHai6oTrsZQgQVYuy1u0YqxXAC6aEaTi9g0wXPRmPYkYaHplG_953k6-21rrQDB0pU1Cvzm_eyalRqUYxgkabc9Ra86OODgMVmjAZO3X1rn2LXg/s0-rw/PNG.VECTOR69.COM-Polkadot-Logo.png" alt="logo" width=100/>
+  <img align="center" src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/24/rust-logo-png/download-hd-community-spotlight-rust-programming-language-transparent-png-image-nicepngcom.png" alt="logo" width=100/>
   
 </div>
