@@ -14,6 +14,6 @@
   <img align="center" src="https://www.parity.io/static/6050b977b06c4e5a13d753e50a79182a/icon-parity-signer.png" alt="logo" width=100/>
   <img align="center" src="https://brightinventions.pl/images/why-would-you-use-substrate/2.png" alt="logo" width=100/>
   <img align="center" src="https://cryptologos.cc/logos/polkadot-new-dot-logo.png" alt="logo" width=100/>
-  <img align="center" src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/24/rust-logo-png/download-hd-community-spotlight-rust-programming-language-transparent-png-image-nicepngcom.png" alt="logo" width=100/>
+  <img align="center" src="https://brandslogos.com/wp-content/uploads/images/large/rust-logo.png" alt="logo" width=100/>
   
 </div>
