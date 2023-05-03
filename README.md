@@ -4,7 +4,7 @@
   <b>My interests:</b><br>
   <a> Polkadot / Substrate </a> |
   <a> DeFi </a> | 
-  <a> DeSci </a> | 
+  <a> Cybersecurity </a> | 
   <a> Quantitative Research  </a> |
   <a> Low Level Programming </a>
   <br><br>
