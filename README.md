@@ -3,8 +3,8 @@
 <div align="center">
   <b>My interests:</b><br>
   <a> Polkadot / Substrate </a> |
-  <a> DeFi </a> | 
-  <a> Cybersecurity </a> | 
+  <a> Algorithmic trading </a> | 
+  <a> Cloud Native Computing </a> |
   <a> Quantitative Research  </a> |
   <a> Low Level Programming </a>
   <br><br>
