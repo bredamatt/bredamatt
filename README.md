@@ -4,7 +4,6 @@
   <b>My interests:</b><br>
   <a> Polkadot / Substrate </a> |
   <a> Algorithmic trading </a> | 
-  <a> Cloud Native Computing </a> |
   <a> Quantitative Research  </a> |
   <a> Low Level Programming </a> |
   <a> Automated Verification </a>
