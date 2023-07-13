@@ -6,7 +6,8 @@
   <a> Algorithmic trading </a> | 
   <a> Cloud Native Computing </a> |
   <a> Quantitative Research  </a> |
-  <a> Low Level Programming </a>
+  <a> Low Level Programming </a> |
+  <a> Automated Verification </a>
   <br><br>
  
 <div align="center">
