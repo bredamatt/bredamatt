@@ -2,10 +2,10 @@
 
 <div align="center">
   <b>My interests:</b><br>
-  <a> Polkadot / Substrate </a> |
+  <a> Polkadot </a> |
   <a> Algorithmic trading </a> | 
   <a> Quantitative Research  </a> |
-  <a> Low Level Programming </a> |
+  <a> Embedded programming </a> |
   <a> Automated Verification </a>
   <br><br>
  
