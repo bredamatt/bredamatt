@@ -6,5 +6,5 @@
   <a> Algorithmic trading </a> | 
   <a> Quantitative Research  </a> |
   <a> Embedded programming </a> |
-  <a> Automated Verification </a>
+  <a> Provable Programming </a>
   <br><br>
