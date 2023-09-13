@@ -4,7 +4,7 @@
   <b>My interests:</b><br>
   <a> Polkadot </a> |
   <a> Algorithmic trading </a> | 
-  <a> Quantitative Research  </a> |
-  <a> Embedded programming </a> |
-  <a> Provable Programming </a>
+  <a> Quantitative research  </a> |
+  <a> Low latency and real-time computing </a> |
+  <a> Provable programming </a>
   <br><br>
