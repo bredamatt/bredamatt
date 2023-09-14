@@ -5,6 +5,7 @@
   <a> Polkadot </a> |
   <a> Algorithmic trading </a> | 
   <a> Quantitative research  </a> |
-  <a> Low latency and real-time computing </a> |
-  <a> Provable programming </a>
+  <a> Low latency </a> |
+  <a> Provable programming </a> |
+  <a> Probabilistic logic programming </a>
   <br><br>
