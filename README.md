@@ -2,7 +2,6 @@
 
 <div align="center">
   <b>My interests:</b><br>
-  <a> Polkadot </a> |
   <a> Algorithmic trading </a> | 
   <a> Quantitative research  </a> |
   <a> Low latency </a> |
