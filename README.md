@@ -5,6 +5,6 @@
   <a> Algorithmic trading </a> | 
   <a> Quantitative research  </a> |
   <a> Low latency </a> |
-  <a> Provable programming </a> |
-  <a> Probabilistic logic programming </a>
+  <a> Complex Systems </a>
+  <a> Kubernetes / Cloud-native / K-native </a>
   <br><br>
