@@ -6,5 +6,5 @@
   <a> Quantitative research  </a> |
   <a> Low latency </a> |
   <a> Complex Systems </a> |
-  <a> Kubernetes / Cloud-native / K-native </a>
+  <a> Cloud-Native and K-Native </a>
   <br><br>
