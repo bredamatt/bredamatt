@@ -2,9 +2,8 @@
 
 <div align="center">
   <b>My interests:</b><br>
-  <a> Algorithmic trading </a> | 
-  <a> Quantitative research  </a> |
-  <a> Low latency </a> |
-  <a> Complex Systems </a> |
-  <a> Cloud-Native and K-Native </a>
+  <a> Algorithmic Trading </a> | 
+  <a> Functional Programming </a> |
+  <a> Complex System Theory </a>  |
+  <a> Quantitative Research </a>
   <br><br>
