@@ -2,9 +2,9 @@
 
 <div align="center">
   <b>My interests:</b><br>
-  <a> Algorithmic Trading </a> | 
+  <a> Safety Engineering </a> |
   <a> Protocol Research </a> |
   <a> Complex System Theory </a>  |
   <a> Formal Verification </a> | 
-  <a> Distributed Systems </a>
+  <a> Artificial Intelligence </a>
   <br><br>
