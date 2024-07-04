@@ -3,7 +3,8 @@
 <div align="center">
   <b>My interests:</b><br>
   <a> Algorithmic Trading </a> | 
-  <a> Functional Programming </a> |
+  <a> Protocol Research </a> |
   <a> Complex System Theory </a>  |
-  <a> Quantitative Research </a>
+  <a> Formal Verification </a> | 
+  <a> Distributed Systems </a>
   <br><br>
