@@ -4,8 +4,9 @@
 
   ## 🌐 About Me
 
-  As an entrepreneur, I blend visionary thinking with technical expertise to create groundbreaking solutions.
+  As an entrepreneurial person, I blend visionary thinking with technical expertise to create groundbreaking solutions.
   This implies that I generally think creatively and easily come up with new ideas and I love to prototype these out.
+  Place me in a room filled with of interesting ideas and concepts and watch me play!
 
   ## 🌱 Interests
   These are the topics I continuously research:
