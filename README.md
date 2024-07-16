@@ -6,5 +6,6 @@
   <a> Protocol Research </a> |
   <a> Complex System Theory </a>  |
   <a> Formal Verification </a> | 
-  <a> Artificial Intelligence </a>
+  <a> Artificial Intelligence </a> |
+  <a> Risk Management and Analysis </a>
   <br><br>
