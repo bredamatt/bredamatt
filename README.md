@@ -15,7 +15,7 @@
   
   👾 **Malware engineering** 👾
   
-  🔍 **Digital Forensics** 🔍 
+  🔍 **System Observability** 🔍 
   
   🔐 **Web3** 🔐
   
