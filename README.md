@@ -11,6 +11,7 @@
   These are the topics I continuously learn about:
    - 👾 **Malware engineering**
    - 🔍 **Digital Forensics**
+   - 🔐 **Web3**
    - 🐧 **Linux**
    - 🌐 **Cybersecurity**
    - 🤖 **Artificial intelligence**
