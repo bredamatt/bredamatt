@@ -1,5 +1,8 @@
 <body align ="center"> 
-  Hi there! Welcome to my profile!
+
+  <div align = "center">
+  Welcome
+  </div>
 
   ## 🌐 About Me
   As an entrepreneurial person, I blend visionary thinking with technical expertise to create groundbreaking solutions.
