@@ -17,7 +17,11 @@
    - 💹 **Algorithmic trading**
    - 📰 **Economics**
 
- 
-  >>When you step into an intersection of fields, disciplines, or cultures, you can combine existing concepts into a large number of extraordinary ideas
+ <div align="center">
+
+_When you step into an intersection of fields, disciplines, or cultures, you can combine existing concepts into a large number of extraordinary ideas._
+
+</div>
+  
 
 </body>
