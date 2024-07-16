@@ -11,14 +11,22 @@
 
   ## 🌱 Interests
   These are the topics I continuously research:
-   - 👾 **Malware engineering**
-   - 🔍 **Digital Forensics**
-   - 🔐 **Web3**
-   - 🐧 **Linux**
-   - 🌐 **Cybersecurity**
-   - 🤖 **Artificial intelligence**
-   - 💹 **Algorithmic trading**
-   - 📰 **Economics**
+  
+  👾 **Malware engineering**
+  
+  🔍 **Digital Forensics**
+  
+  🔐 **Web3**
+  
+  🐧 **Linux**
+  
+  🌐 **Cybersecurity**
+  
+  🤖 **Artificial intelligence**
+  
+  💹 **Algorithmic trading**
+  
+  📰 **Economics**
 
 </div> 
 
