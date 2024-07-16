@@ -19,6 +19,10 @@
    - 💹 **Algorithmic trading**
    - 📰 **Economics**
 
-I like to combine research and solutions in these domains to create ground-breaking risk management systems. 🛡️
+🛡️
+***
+When you step into an intersection of fields, disciplines, or cultures, you can combine existing concepts into a large number of extraordinary ideas
+***
+🛡️
 
 </body>
