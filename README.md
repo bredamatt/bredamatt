@@ -2,8 +2,7 @@
   
   # Welcome to my profile
   
-</div>
-
+==
 <body align ="center"> 
   ## 🌐 About Me
   As an entrepreneurial person, I blend visionary thinking with technical expertise to create groundbreaking solutions.
@@ -20,6 +19,8 @@
    - 🤖 **Artificial intelligence**
    - 💹 **Algorithmic trading**
    - 📰 **Economics**
+
+</div> 
 
 ***
 ***
