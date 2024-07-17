@@ -8,7 +8,7 @@
   
   As an entrepreneurial person, I blend visionary thinking with technical expertise to create groundbreaking solutions.
   This implies that I generally think creatively and easily come up with new ideas and I love to prototype these out.
-  Place me in an environment ofinteresting ideas and watch me play!
+  Place me in a stimulating environment and watch me play!
 
   ## 🌱 Interests 🌱
   These are the topics I continuously research:
